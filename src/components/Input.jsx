@@ -6,7 +6,7 @@ const Input = ({
   onAmountChange,
   onCurrencyChange,
   currencyOption = [],
-  selectCurrency = "usd",
+  selectCurrency = "",
   amountDisable = false,
   currencyDisable = false,
   className = "",
